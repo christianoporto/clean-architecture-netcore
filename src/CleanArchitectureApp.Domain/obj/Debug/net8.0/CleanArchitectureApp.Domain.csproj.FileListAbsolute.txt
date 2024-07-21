@@ -1,0 +1,11 @@
+C:\Wahio\0_CLEAN_ARCHITECTURE\CleanArchitectureApp\src\CleanArchitectureApp.Domain\bin\Debug\net8.0\CleanArchitectureApp.Domain.deps.json
+C:\Wahio\0_CLEAN_ARCHITECTURE\CleanArchitectureApp\src\CleanArchitectureApp.Domain\bin\Debug\net8.0\CleanArchitectureApp.Domain.dll
+C:\Wahio\0_CLEAN_ARCHITECTURE\CleanArchitectureApp\src\CleanArchitectureApp.Domain\bin\Debug\net8.0\CleanArchitectureApp.Domain.pdb
+C:\Wahio\0_CLEAN_ARCHITECTURE\CleanArchitectureApp\src\CleanArchitectureApp.Domain\obj\Debug\net8.0\CleanArchitectureApp.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Wahio\0_CLEAN_ARCHITECTURE\CleanArchitectureApp\src\CleanArchitectureApp.Domain\obj\Debug\net8.0\CleanArchitectureApp.Domain.AssemblyInfoInputs.cache
+C:\Wahio\0_CLEAN_ARCHITECTURE\CleanArchitectureApp\src\CleanArchitectureApp.Domain\obj\Debug\net8.0\CleanArchitectureApp.Domain.AssemblyInfo.cs
+C:\Wahio\0_CLEAN_ARCHITECTURE\CleanArchitectureApp\src\CleanArchitectureApp.Domain\obj\Debug\net8.0\CleanArchitectureApp.Domain.csproj.CoreCompileInputs.cache
+C:\Wahio\0_CLEAN_ARCHITECTURE\CleanArchitectureApp\src\CleanArchitectureApp.Domain\obj\Debug\net8.0\CleanArchitectureApp.Domain.dll
+C:\Wahio\0_CLEAN_ARCHITECTURE\CleanArchitectureApp\src\CleanArchitectureApp.Domain\obj\Debug\net8.0\refint\CleanArchitectureApp.Domain.dll
+C:\Wahio\0_CLEAN_ARCHITECTURE\CleanArchitectureApp\src\CleanArchitectureApp.Domain\obj\Debug\net8.0\CleanArchitectureApp.Domain.pdb
+C:\Wahio\0_CLEAN_ARCHITECTURE\CleanArchitectureApp\src\CleanArchitectureApp.Domain\obj\Debug\net8.0\ref\CleanArchitectureApp.Domain.dll

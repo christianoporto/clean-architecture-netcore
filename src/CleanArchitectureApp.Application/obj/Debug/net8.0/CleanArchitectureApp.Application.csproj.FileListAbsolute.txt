@@ -1,0 +1,15 @@
+C:\Wahio\0_CLEAN_ARCHITECTURE\CleanArchitectureApp\src\CleanArchitectureApp.Application\bin\Debug\net8.0\CleanArchitectureApp.Application.deps.json
+C:\Wahio\0_CLEAN_ARCHITECTURE\CleanArchitectureApp\src\CleanArchitectureApp.Application\bin\Debug\net8.0\CleanArchitectureApp.Application.dll
+C:\Wahio\0_CLEAN_ARCHITECTURE\CleanArchitectureApp\src\CleanArchitectureApp.Application\bin\Debug\net8.0\CleanArchitectureApp.Application.pdb
+C:\Wahio\0_CLEAN_ARCHITECTURE\CleanArchitectureApp\src\CleanArchitectureApp.Application\bin\Debug\net8.0\CleanArchitectureApp.Domain.dll
+C:\Wahio\0_CLEAN_ARCHITECTURE\CleanArchitectureApp\src\CleanArchitectureApp.Application\bin\Debug\net8.0\CleanArchitectureApp.Domain.pdb
+C:\Wahio\0_CLEAN_ARCHITECTURE\CleanArchitectureApp\src\CleanArchitectureApp.Application\obj\Debug\net8.0\CleanArchitectureApp.Application.csproj.AssemblyReference.cache
+C:\Wahio\0_CLEAN_ARCHITECTURE\CleanArchitectureApp\src\CleanArchitectureApp.Application\obj\Debug\net8.0\CleanArchitectureApp.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Wahio\0_CLEAN_ARCHITECTURE\CleanArchitectureApp\src\CleanArchitectureApp.Application\obj\Debug\net8.0\CleanArchitectureApp.Application.AssemblyInfoInputs.cache
+C:\Wahio\0_CLEAN_ARCHITECTURE\CleanArchitectureApp\src\CleanArchitectureApp.Application\obj\Debug\net8.0\CleanArchitectureApp.Application.AssemblyInfo.cs
+C:\Wahio\0_CLEAN_ARCHITECTURE\CleanArchitectureApp\src\CleanArchitectureApp.Application\obj\Debug\net8.0\CleanArchitectureApp.Application.csproj.CoreCompileInputs.cache
+C:\Wahio\0_CLEAN_ARCHITECTURE\CleanArchitectureApp\src\CleanArchitectureApp.Application\obj\Debug\net8.0\CleanArc.01993744.Up2Date
+C:\Wahio\0_CLEAN_ARCHITECTURE\CleanArchitectureApp\src\CleanArchitectureApp.Application\obj\Debug\net8.0\CleanArchitectureApp.Application.dll
+C:\Wahio\0_CLEAN_ARCHITECTURE\CleanArchitectureApp\src\CleanArchitectureApp.Application\obj\Debug\net8.0\refint\CleanArchitectureApp.Application.dll
+C:\Wahio\0_CLEAN_ARCHITECTURE\CleanArchitectureApp\src\CleanArchitectureApp.Application\obj\Debug\net8.0\CleanArchitectureApp.Application.pdb
+C:\Wahio\0_CLEAN_ARCHITECTURE\CleanArchitectureApp\src\CleanArchitectureApp.Application\obj\Debug\net8.0\ref\CleanArchitectureApp.Application.dll
